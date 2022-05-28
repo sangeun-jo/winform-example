@@ -91,6 +91,8 @@ namespace MathQuiz
             timer1.Start(); 
             startButton.Enabled = false;
 
+            itemLabel.BackColor = SystemColors.Control;
+
         }
 
         private bool CheckTheAnswer() {
@@ -114,6 +116,9 @@ namespace MathQuiz
             }
             else if (timeLeft > 0)
             {
+                if (timeLeft < 5) {
+                    itemLabel.BackColor = Color.Red; 
+                }
                 timeLeft = timeLeft - 1;
                 itemLabel.Text = timeLeft + " seconds";
             }
@@ -126,6 +131,9 @@ namespace MathQuiz
                 product.Value = multiplicand * multiplier;
                 quotient.Value = divisor / divisor;
                 startButton.Enabled = true;
+
+                itemLabel.BackColor = SystemColors.Control;
+                itemLabel.Text = "";
             }
         }
     }
