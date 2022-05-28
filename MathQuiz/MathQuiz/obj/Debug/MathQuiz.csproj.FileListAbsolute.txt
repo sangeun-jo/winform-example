@@ -1,0 +1,11 @@
+D:\dev\winform-examples\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+D:\dev\winform-examples\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+D:\dev\winform-examples\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+D:\dev\winform-examples\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+D:\dev\winform-examples\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.SuggestedBindingRedirects.cache
+D:\dev\winform-examples\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+D:\dev\winform-examples\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+D:\dev\winform-examples\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+D:\dev\winform-examples\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+D:\dev\winform-examples\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+D:\dev\winform-examples\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
