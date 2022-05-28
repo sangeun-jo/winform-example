@@ -1,0 +1,11 @@
+D:\dev\winform-examples\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+D:\dev\winform-examples\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+D:\dev\winform-examples\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+D:\dev\winform-examples\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.AssemblyReference.cache
+D:\dev\winform-examples\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.SuggestedBindingRedirects.cache
+D:\dev\winform-examples\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+D:\dev\winform-examples\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+D:\dev\winform-examples\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+D:\dev\winform-examples\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+D:\dev\winform-examples\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+D:\dev\winform-examples\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
